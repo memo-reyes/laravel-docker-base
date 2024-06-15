@@ -1,0 +1,7 @@
+Dockerfile
+docker-compose.yaml
+docker-compose.yml
+.git
+node_modules/
+vendor/
+dist/
